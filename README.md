@@ -1,5 +1,6 @@
 # CMD
 this are cmd that are not finished, but try this what i made!
+every CMD have command that they in real cmd don't got!
 
 # CMD.BAT
 
