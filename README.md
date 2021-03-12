@@ -8,7 +8,7 @@ cmd bat is cmd made with batch coding, that is now disabled by administrator!
 
 # CMD.PY
 
-cmd.py is cmd made with python coding, this one got commands but i need to put more!(coming soon!)
+cmd.py is cmd made with python coding, this one got commands but i need to put more!
 
 # CMD.SH
 
